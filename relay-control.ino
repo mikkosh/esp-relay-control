@@ -92,7 +92,7 @@ void handleRoot() {
   <head>\
     <title>Relay controller</title>\
     <style>\
-      body { background-color: #efefef; font-family: Arial, Helvetica, Sans-Serif; Color: #008; font-size: 40px; }\
+      body { background-color: #efefef; font-family: Arial, Helvetica, Sans-Serif; Color: #333; font-size: 40px; text-align:center;}\
       h1 {font-size: 2em;} p {font-size: 1em;}\
 .toggle {\n\
   -webkit-appearance: none;\n\
